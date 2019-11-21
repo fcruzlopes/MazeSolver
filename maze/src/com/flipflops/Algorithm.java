@@ -34,7 +34,7 @@ public class Algorithm {
     }
 
     /**
-     * Check if is a valid maze for N*N
+     * Check if is a valid maze for Maze_SIZE * Maze_SIZE
      *
      * @param maze array for test of valid condition
      * @param x    columns
@@ -47,12 +47,12 @@ public class Algorithm {
     }
 
     /**
-     * 
-     * @param maze
-     * @param x
-     * @param y
-     * @param sol
-     * @return
+     * Solve the maze
+     *
+     * @param maze the maze unsolved
+     * @param x horizontal direction
+     * @param y vertical direction
+     * @param sol solution of the maze
      */
     private boolean solveMazeUtil(int maze[][], int x, int y,
                                   int sol[][]) {
