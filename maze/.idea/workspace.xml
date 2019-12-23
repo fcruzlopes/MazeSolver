@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a75d9761-bde5-4d0c-a91d-02497c6b6afe" name="Default Changelist" comment="">
+    <list default="true" id="2650ea6b-e787-4cd1-83ce-f149f0df92b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/flipflops/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/flipflops/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maze.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maze.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,82 +18,58 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1TwXYtpeLOoflkGMi7M31Q1q3FO" />
+  <component name="ProjectId" id="1VFmcjZJaFDyMtMCBbJm2OFado0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.flipflops.Main" />
-      <module name="maze" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a75d9761-bde5-4d0c-a91d-02497c6b6afe" name="Default Changelist" comment="" />
-      <created>1574372492612</created>
+      <changelist id="2650ea6b-e787-4cd1-83ce-f149f0df92b7" name="Default Changelist" comment="" />
+      <created>1576857301323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574372492612</updated>
-      <workItem from="1574372501375" duration="1538000" />
-      <workItem from="1574376388198" duration="200000" />
+      <updated>1576857301323</updated>
+      <workItem from="1576857317941" duration="12000" />
+      <workItem from="1576862809982" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576862811478">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576862811478" />
   </component>
 </project>
